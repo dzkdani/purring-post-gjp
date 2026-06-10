@@ -1,0 +1,7 @@
+﻿UserSettings
+Temp
+Logs
+Library
+*.csproj
+.vs
+obj/Debug

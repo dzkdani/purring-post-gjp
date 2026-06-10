@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c08be884799bea42a519bdc9942111f, type: 3}
+  m_Name: Quest3
+  m_EditorClassIdentifier: 
+  questTitle: questName
+  questDesc: 
+  currentCourier: {fileID: 11400000, guid: 6c3bd9e902b5b4d48a169e12ccf4385e, type: 2}
+  questPackages:
+  - {fileID: 11400000, guid: 5c0bfe5a4a23cda45ac364404a31d6ef, type: 2}
+  - {fileID: 11400000, guid: 5c0bfe5a4a23cda45ac364404a31d6ef, type: 2}
+  - {fileID: 11400000, guid: ce1194639145c2241b1056ecd24ec97e, type: 2}
+  - {fileID: 11400000, guid: 7e86793d4b285a74ca796e422c0c1c7e, type: 2}
+  TotalWeight: 27
+  questDestination: {fileID: 11400000, guid: b25f66920f7652a4a8eb363bb832c86a, type: 2}
+  questSender: Bard
+  durationInit: 450
+  durationLeft: 442.79565
+  IsActive: 0
+  IsAvailable: 1
+  IsDone: 0
+  BaseReward: 140
+  BonusReward: 0

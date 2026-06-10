@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ad8b8a65076ed44e8b31e15d6fdab35, type: 3}
+  m_Name: IntroStory
+  m_EditorClassIdentifier: 
+  Dialogue:
+    Name: 
+    Sentences:
+    - Once upon a time, in a small and quiet town nestled amidst murmuring woods
+      and winding rivers, there lived a cat named Felix.
+    - 'Felix was known throughout the town for his kindness and friendly nature.
+      But little did anyone know, Felix had lost all memory of his past. '
+    - The only clue to his mysterious origins was a weathered stamp adorned with
+      the image of a mighty soaring eagle.
+    - One day, a peculiar letter arrived at Felix's doorstep. The envelope, bearing
+      the very same eagle stamp, ignited a flame of inspiration within Felix's heart.
+    - With a newfound purpose, he decided to recruit more feline friends to help
+      him build a mail delivery business in the hopes of encountering a client who
+      used the same stamps as him.

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ce02241b85ba194584e13b92aa2ee20, type: 3}
+  m_Name: CustomerDialogue
+  m_EditorClassIdentifier: 
+  Dialogue:
+    ScenarioName: CustomerDialogue
+    Dialog:
+    - Name: Timmy
+      Sentences:
+      - Welcome to C&T Express Delivery, How i can help You?
+    - Name: Toshi
+      Sentences:
+      - I'd like to send some goods to my good friends at woolhope town, can you
+        do it for me?
+    - Name: Timmy
+      Sentences:
+      - you came to the right place! we can help you with that. what kind of goods
+        that you want to send?
